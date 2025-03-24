@@ -371,7 +371,7 @@ a {
 html {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  color: #212121;
+  color: #000;
   font-family: 'Montserrat Alternates', sans-serif;
   font-weight: 400;
   scroll-behavior: smooth;
@@ -586,14 +586,14 @@ h2 {
 }
 
 .nav__link {
-  color: #909090;
+  color: #000;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
 
 .nav__link:hover, .nav__link:active {
   text-decoration: none;
-  color: #186049;
+  color: #0f392c;
   outline: none;
 }
 
@@ -839,7 +839,7 @@ h2 {
 .purchase-form__input {
   margin-top: 5px;
   padding: 5px 10px;
-  border: 0.5px #212121 solid;
+  border: 0.5px #000 solid;
   border-radius: 5px;
   outline: none;
 }
